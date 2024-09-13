@@ -57,7 +57,7 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-<!--![QM-alt's github activity graph](https://raw.githubusercontent.com/QM-alt/QM-alt/output/github-contribution-grid-snake.svg)-->
+![QM-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
