@@ -140,7 +140,7 @@ counting of visitors to this page in this section started from Sep 13, 2024
 ### Profile Views
 counting of visitors to this page in this section started from Sep 13, 2024
 
-![](https://count.getloli.com/get/@qm-alt.github.readme)
+![](https://count.getloli.com/get/@QM-alt.github.readme)
 </br>
 
 [MIT](LICENSE)
