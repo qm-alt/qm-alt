@@ -11,11 +11,11 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/QM-alt/QM-alt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/qm-alt/qm-alt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/QM-alt/QM-alt/graphs/contributors"><img src="https://img.shields.io/github/contributors/QM-alt/QM-alt?color=blue"></a>
-    <a href="https://github.com/QM-alt/QM-alt/stargazers"><img src="https://img.shields.io/github/stars/QM-alt/QM-alt.svg?logo=github"></a>
-    <a href="https://github.com/QM-alt/QM-alt/network/members"><img src="https://img.shields.io/github/forks/QM-alt/QM-alt.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/qm-alt/qm-alt/graphs/contributors"><img src="https://img.shields.io/github/contributors/qm-alt/qm-alt?color=blue"></a>
+    <a href="https://github.com/qm-alt/qm-alt/stargazers"><img src="https://img.shields.io/github/stars/qm-alt/qm-alt.svg?logo=github"></a>
+    <a href="https://github.com/qm-alt/qm-alt/network/members"><img src="https://img.shields.io/github/forks/qm-alt/qm-alt.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=QM-alt.QM-alt" alt="visitors"/>   
 </p>
 
@@ -32,7 +32,7 @@
 
 
 <!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+### My achievements on [kaggle](https://www.kaggle.com/qudratullahmulhaq):
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
@@ -56,21 +56,21 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![QM-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![qm-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![QM-alt's github stats](https://github-readme-stats.vercel.app/api?username=QM-alt&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QM-alt&theme=radical&layout=compact) |
+| ![qm-alt's github stats](https://github-readme-stats.vercel.app/api?username=QM-alt&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qm-alt&theme=radical&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=QM-alt"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qm-alt"></img>
 <!-- dark snake -->
-![QM-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![qm-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!-- grid-snake ![](https://github.com/QM-alt/QM-alt/blob/output/github-contribution-grid-snake.svg)-->
+<!-- grid-snake ![](https://github.com/qm-alt/qm-alt/blob/output/github-contribution-grid-snake.svg)-->
 
 
 <!--   skyline 
@@ -124,7 +124,7 @@ graph TD;
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/QM-alt/count.svg">  
+<img src="https://profile-counter.glitch.me/qm-alt/count.svg">  
 
 counting of visitors to this page in this section started from Sep 13, 2024
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
@@ -139,7 +139,7 @@ counting of visitors to this page in this section started from Sep 13, 2024
 ### Profile Views
 counting of visitors to this page in this section started from Sep 13, 2024
 
-![](https://count.getloli.com/get/@QM-alt.github.readme)
+![](https://count.getloli.com/get/@qm-alt.github.readme)
 </br>
 
 [MIT](LICENSE)
