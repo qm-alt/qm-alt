@@ -68,7 +68,7 @@
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=QM-alt" width="auto"></img>
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
 
@@ -81,6 +81,27 @@
 <a href="https://api.whatsapp.com/send?phone=+6285691093405" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QM-alt" alt="QM-alt" /></a>
+</p>
+
+
+
+
+   <!--machine-learning-->
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
 
 <!-- Tangerang - My Home-->
   
