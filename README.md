@@ -79,7 +79,7 @@
 -->
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-
+<img src="https://raw.githubusercontent.com/qm-alt/qm-alt/main/profile-night-green.svg" width="auto"></img>
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=QM-alt" width="auto"></img>
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
