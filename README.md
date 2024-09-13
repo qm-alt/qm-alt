@@ -160,5 +160,5 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 [for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
 
-![](assets/Bottom_down.svg)
+![](Bottom_down.svg)
 
