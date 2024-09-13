@@ -33,7 +33,6 @@ svg {
 @keyframes wave {
   to {transform: translateX(-100%);}
 }
-
 </style>
 
  <defs> 
