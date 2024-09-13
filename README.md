@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QM-alt
+- 👋 Hi, I’m @qm-alt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -97,7 +97,7 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QM-alt" alt="QM-alt" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qm-alt" alt="qm-alt" /></a>
 </p>
 
 
@@ -133,14 +133,14 @@ counting of visitors to this page in this section started from Sep 13, 2024
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=QM-alt/QM-alt&type=Date)](https://star-history.com/#QM-alt/QM-alt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Date)](https://star-history.com/#qm-alt/qm-alt&Date)
 
 
 
 ### Profile Views
-counting of visitors to this page in this section started from Sep 11, 2024
+counting of visitors to this page in this section started from Sep 13, 2024
 
-![](https://count.getloli.com/get/@QM-alt.github.readme)
+![](https://count.getloli.com/get/@qm-alt.github.readme)
 </br>
 
 [MIT](LICENSE)
