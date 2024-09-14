@@ -132,7 +132,7 @@ counting of visitors to this page in this section started from Sep 13, 2024
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=QM-alt/QM-alt&type=Date)](https://star-history.com/#QM-alt/QM-alt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Date)](https://star-history.com/#qm-alt/qm-alt&Date)
 
 
 
