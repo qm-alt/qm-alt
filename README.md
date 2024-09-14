@@ -124,7 +124,7 @@ graph TD;
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/qm-alt/count.svg">  
+<img src="https://profile-counter.glitch.me/QM-alt/count.svg">  
 
 counting of visitors to this page in this section started from Sep 13, 2024
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
@@ -139,7 +139,7 @@ counting of visitors to this page in this section started from Sep 13, 2024
 ### Profile Views
 counting of visitors to this page in this section started from Sep 13, 2024
 
-![](https://count.getloli.com/get/@qm-alt.github.readme)
+![](https://count.getloli.com/get/@QM-alt.github.readme)
 </br>
 
 [MIT](LICENSE)
