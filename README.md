@@ -14,6 +14,7 @@
     <a href="https://github.com/qm-alt/qm-alt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/qm-alt/qm-alt/graphs/contributors"><img src="https://img.shields.io/github/contributors/qm-alt/qm-alt?color=blue"></a>
+    <a href="#"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/qm-alt/qm-alt?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="20px"></a>
     <a href="https://github.com/qm-alt/qm-alt/stargazers"><img src="https://img.shields.io/github/stars/qm-alt/qm-alt.svg?logo=github"></a>
     <a href="https://github.com/qm-alt/qm-alt/network/members"><img src="https://img.shields.io/github/forks/qm-alt/qm-alt.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=QM-alt.QM-alt" alt="visitors"/>
@@ -22,11 +23,18 @@
 
 <!--   my-header-img -->
 ![](./header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" align="right" height="48" width="48"></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" align="right" height="48" width="48"></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" align="right" height="48" width="48"></a>
-<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9a/20200830031621%21Visual_Studio_Code_1.35_icon.svg" align="right" width="48" height="48"></a>
+<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9a/20200830031621%21Visual_Studio_Code_1.35_icon.svg" align="right" width="48" height="48"></a>-->
+<!--<div>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/qm-alt/qm-alt?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/qm-alt/qm-alt?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/qm-alt/qm-alt?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/qm-alt/qm-alt?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/qm-alt/qm-alt?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+</div>-->
 
 
 <!--   my-ticker -->    
