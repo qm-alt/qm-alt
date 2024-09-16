@@ -76,6 +76,7 @@
 <!--<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>-->
 <code><img title="Chat GPT" alt="ChatGPT" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" /></code>
+<code><img title="Replit" alt="Replit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" /></code>
 </br></br>
 
 
