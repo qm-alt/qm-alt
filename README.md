@@ -16,7 +16,8 @@
     <a href="https://github.com/qm-alt/qm-alt/graphs/contributors"><img src="https://img.shields.io/github/contributors/qm-alt/qm-alt?color=blue"></a>
     <a href="https://github.com/qm-alt/qm-alt/stargazers"><img src="https://img.shields.io/github/stars/qm-alt/qm-alt.svg?logo=github"></a>
     <a href="https://github.com/qm-alt/qm-alt/network/members"><img src="https://img.shields.io/github/forks/qm-alt/qm-alt.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=QM-alt.QM-alt" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=QM-alt.QM-alt" alt="visitors"/>
+    <a href="https://gist.github.com/qm-alt/gist-id"><img src="https://img.shields.io/badge/View%20My%20Gist-Click%20Here-blue">
 </p>
 
 <!--   my-header-img -->
