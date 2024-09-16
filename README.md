@@ -47,11 +47,6 @@
 
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/qudratullahmulhaq):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
 -->
 
 
@@ -101,7 +96,7 @@
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![QM-alt's github stats](https://github-readme-stats.vercel.app/api?username=QM-alt&show_icons=true&theme=radical&include_all_commits=true) | ![qm-alt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QM-alt&theme=radical&layout=compact) |
+| ![QM-alt's github stats](https://github-readme-stats.vercel.app/api?username=qm-alt&show_icons=true&theme=radical&include_all_commits=true) | ![qm-alt's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qm-alt&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qm-alt"></img>
@@ -122,14 +117,6 @@
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=QM-alt" width="auto"></img>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=qm-alt&show-other-skills=true" width="auto">
 
-
-<!--**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="QM-alt" height="30" width="30" /></a>
-<a href="mailto:qdrt.mulhaq@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+6285691093405" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor="white" /></a>
-</p>-->
 <h2> 📫 How to reach me</h2>
 <a href="https://github.com/qm-alt">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/qm-alt?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@qm-alt" height="22px">
@@ -191,7 +178,7 @@ counting of visitors to this page in this section started from Sep 13, 2024
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=QM-alt/qm-alt&type=Date)](https://star-history.com/#QM-alt/qm-alt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Date)](https://star-history.com/qm-alt/qm-alt&Date)
 
 
 
