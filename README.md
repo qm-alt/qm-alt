@@ -122,13 +122,33 @@
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=QM-alt" width="auto"></img>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=qm-alt&show-other-skills=true" width="auto">
 
-**📫 How to Reach me:**
+
+<!--**📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="QM-alt" height="30" width="30" /></a>
 <a href="mailto:qdrt.mulhaq@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+6285691093405" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
+<a href="https://api.whatsapp.com/send?phone=+6285691093405" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor="white" /></a>
+</p>-->
+<h2> 📫 How to reach me</h2>
+<a href="https://github.com/qm-alt">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/qm-alt?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@qm-alt" height="22px">
+</a>
+<a href="https://codepen.io/">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/qm-alt&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+</a>
+<a href="https://linkedin.com/in/qudratullahmulhaq">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/qudratullahmulhaq&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+</a>
+<a href="https://twitter.com/#/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@&color=000&logo=x" height="22px">
+</a>
+</a>
+<a href="mailto:qdrt.mulhaq@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=qdrt.mulhaq@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=+6285691093405" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</br>
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
