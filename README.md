@@ -197,6 +197,11 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
 
 [for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=000&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 
 ![](Bottom_down.svg)
 
