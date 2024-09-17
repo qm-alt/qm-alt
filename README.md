@@ -128,9 +128,8 @@
     </a>-->
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
-</details>
     <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/qm-alt">here</a>.</p>
-    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
+    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=qm-alt">here</a>!</p>
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qm-alt"></img>
