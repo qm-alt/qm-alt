@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...-->
 
 
-![](/Bottom_up.svg)
+![](img/Bottom_up.svg)
 
 <!--   my-icons -->
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <!--   my-header-img -->
-![](./header_.png)
+![](img/header_.png)
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9a/20200830031621%21Visual_Studio_Code_1.35_icon.svg" align="right" width="48" height="48"></a>
 <!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" align="right" height="48" width="48"></a>
@@ -108,7 +108,7 @@
 ![qm-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](img/profile-3d-contrib/profile-green-animate.svg)
 
 <!-- grid-snake ![](https://github.com/qm-alt/qm-alt/blob/output/github-contribution-grid-snake.svg)-->
 
@@ -211,9 +211,9 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 [for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=000&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=00ffeeb4&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
-![](Bottom_down.svg)
+![](img/Bottom_down.svg)
 
