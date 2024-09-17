@@ -104,8 +104,6 @@
 ![](profile-3d-contrib/profile-night-green.svg)
 
 <img src="https://raw.githubusercontent.com/qm-alt/qm-alt/main/img/profile-night-green.svg" width="auto"></img>
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=qm-alt" width="auto"></img>
-<!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=qm-alt&show-other-skills=true" width="auto">-->
 
 <!--grid-snake-->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
