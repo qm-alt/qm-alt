@@ -114,24 +114,19 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qm-alt&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=qm-alt&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-    <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qm-alt&theme=midnight-purple&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=qm-alt&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-    </a>-->
+    </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=qm-alt&theme=darkhub&no-frame=true&column=10">
     </a>
-    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
-    </a>-->
-    </br>
+    </br></br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
     <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/qm-alt">here</a>.</p>
     <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=qm-alt">here</a>!</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qm-alt"></img>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qm-alt&theme=javascript-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <!-- dark snake -->
 ![BEPb-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
