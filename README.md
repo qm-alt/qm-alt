@@ -182,7 +182,14 @@ counting of visitors to this page in this section started from Sep 13, 2024
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Date)](https://star-history.com/qm-alt/qm-alt&Date)
+<!--[![Star History Chart](https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Date)](https://star-history.com/qm-alt/qm-alt&Date)-->
+[**star-history.com**](https://star-history.com), **the missing GitHub star history graph of GitHub repos.**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date" />
+</picture>
 
 
 
