@@ -39,7 +39,10 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Qudratullah+Mulhaq;+Welcome+to+My+Profile!;Over+views+a+new+joined+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ffee&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Qudratullah+Mulhaq;+Welcome+to+My+Profile!;Over+views+a+new+joined+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)-->
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00ffee&size=30&center=true&vCenter=true&width=450&lines=I'm+Qudratullah+Mulhaq;Computer+Engineering+Student;Indonesia+Frontend+Dev;💻;Power+Metal+Lover+🎧;function+findQuestion(qm-alt)" alt="Computer Engineering Student, Indonesia front-end developer, Power Metal lover"></a>
+</div>
 
 <a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/qdrt.mulhaq.png" alt="TryHackMe"></a>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
@@ -110,10 +113,10 @@
 <!--   profile-green-animate -->
 ![](profile-3d-contrib/profile-night-green.svg)
 
-
-<img src="https://raw.githubusercontent.com/qm-alt/qm-alt/main/img/profile-south-season-animate.svg" width="auto"></img>
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=QM-alt" width="auto"></img>
+<img src="https://raw.githubusercontent.com/qm-alt/qm-alt/main/img/profile-night-green.svg" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=qm-alt" width="auto"></img>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=qm-alt&show-other-skills=true" width="auto">
+
 <!--grid-snake-->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
@@ -207,7 +210,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 [for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=00ffeeb4&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=00ffee&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
