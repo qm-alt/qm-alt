@@ -108,10 +108,10 @@
 ![qm-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-night-green.svg)
+![](profile-3d-contrib/profile-night-green.svg)
 
 
-<img src="https://raw.githubusercontent.com/qm-alt/qm-alt/main/profile-south-season-animate.svg" width="auto"></img>
+<img src="https://raw.githubusercontent.com/qm-alt/qm-alt/main/img/profile-south-season-animate.svg" width="auto"></img>
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=QM-alt" width="auto"></img>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=qm-alt&show-other-skills=true" width="auto">
 <!--grid-snake-->
