@@ -162,20 +162,16 @@
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=qdrt.mulhaq@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=+6285691093405" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</br>
+</br></br>
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+<summary>Adjustment Trophy: Github Profile Trophy</summary>
 </div>
+</br>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=qm-alt&theme=darkhub&no-frame=true&column=10">
-    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qm-alt" alt="qm-alt" /></a>
 </p>
-
-<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qm-alt" alt="qm-alt" /></a>-->
-
 
    <!--machine-learning-->
 ```mermaid
