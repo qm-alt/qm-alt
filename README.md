@@ -168,11 +168,13 @@
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qm-alt" alt="qm-alt" /></a>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=qm-alt&theme=darkhub&no-frame=true&column=10">
+    </a>
 </p>
 
-
+<!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qm-alt" alt="qm-alt" /></a>-->
 
 
    <!--machine-learning-->
@@ -196,8 +198,9 @@ graph TD;
 
 #### Thanks for visiting :heart:
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/QM-alt/count.svg">  
+<p align="center">
+    <img src="https://profile-counter.glitch.me/QM-alt/count.svg">
+</p>
 
 counting of visitors to this page in this section started from Sep 13, 2024
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
