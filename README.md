@@ -131,8 +131,8 @@
     <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/qm-alt">here</a>.</p>
     <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=qm-alt">here</a>!</p>
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qm-alt"></img>
+
 <!-- dark snake -->
 ![BEPb-alt's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
