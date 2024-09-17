@@ -60,6 +60,7 @@
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="img/markdown-svgrepo-com.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="30px" src="img/codepen-svgrepo-com.svg" /></code>
 <!--https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg
 <!--<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
