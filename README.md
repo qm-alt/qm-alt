@@ -156,14 +156,14 @@
 <a href="https://api.whatsapp.com/send?phone=+6285691093405" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </br></br>
 
-<div align="center">
+<!--<div align="center">
 <summary>Adjustment Trophy: Github Profile Trophy</summary>
 </div>
 </br>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qm-alt" alt="qm-alt" /></a>
-</p>
+</p>-->
 
    <!--machine-learning-->
 ```mermaid
@@ -195,8 +195,8 @@ counting of visitors to this page in this section started from Sep 13, 2024
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Timeline)](https://star-history.com/#qm-alt/qm-alt&Timeline)
-
+<!--[![Star History Chart](https://api.star-history.com/svg?repos=qm-alt/qm-alt&type=Timeline)](https://star-history.com/#qm-alt/qm-alt&Timeline)
+-->
 
 ### Profile Views
 counting of visitors to this page in this section started from Sep 13, 2024
